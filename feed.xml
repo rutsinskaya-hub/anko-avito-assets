@@ -148,4 +148,102 @@
       <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/card_08_teksty.png"/>
     </Images>
   </Ad>
+  <Ad>
+    <Id>anko-ai-video</Id>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
+    <Title>AI-видеоролик для бизнеса за 5 дней | видеовизитка</Title>
+    <Description><![CDATA[Видеоролик на нейросетях за 5 дней, от 30 000 руб. Рекламный ролик или видеовизитка бренда без съемочной группы и бюджета на продакшн.
+
+Что входит:
+- идея и сценарий ролика
+- генерация видео на нейросетях
+- монтаж, музыка и титры
+- форматы под Reels, Shorts и рекламу
+
+Для кого:
+- бизнес, которому нужно видео, но дорог классический продакшн
+- эксперты и блогеры
+- запуск продукта или акции
+
+Почему мы:
+- работаем на свежих видеомоделях, которых почти нет у конкурентов
+- идея и режиссура от продюсеров, а не случайная нарезка
+- быстрый цикл, ролик за дни
+
+Как работаем:
+1. Бриф и идея, 1 день
+2. Сценарий и раскадровка, 1 день
+3. Генерация и монтаж, 2 дня
+4. Правки и финал, 1 день
+
+Тарифы:
+Базовый, 30 000 руб: ролик до 30 секунд
+Стандарт, 55 000 руб: до 60 секунд, сценарий, озвучка
+Премиум, 100 000 руб: серия из 3 роликов
+
+Напишите в чат, пришлю примеры роликов и подскажу формат под вашу задачу.]]></Description>
+    <Price>30000</Price>
+    <Address>Москва</Address>
+    <Prepayment>Нет</Prepayment>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Place>Удалённо</Place>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ContactPhone>79175529308</ContactPhone>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/card_05_ai_video.png"/>
+    </Images>
+  </Ad>
+  <Ad>
+    <Id>anko-ai-bot</Id>
+    <Category>Предложение услуг</Category>
+    <ServiceType>Деловые услуги</ServiceType>
+    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
+    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
+    <Title>AI-бот для бизнеса за 7 дней | нейросотрудник</Title>
+    <Description><![CDATA[AI-бот за 7 дней, от 40 000 руб. Нейросотрудник, который отвечает клиентам, принимает заявки и разгружает вас в режиме 24 на 7.
+
+Что входит:
+- сценарии диалогов под ваш бизнес
+- бот в Telegram или на сайте
+- автоответы на частые вопросы
+- передача горячих заявок вам
+
+Для кого:
+- услуги и магазины с потоком вопросов
+- эксперты, которые тонут в личке
+- бизнес, который теряет клиентов из-за медленных ответов
+
+Почему мы:
+- собираем ботов под реальные задачи, а не демо ради демо
+- настраиваем на вашей базе знаний
+- сопровождаем после запуска
+
+Как работаем:
+1. Бриф и сценарии, 2 дня
+2. Сборка и настройка, 3 дня
+3. Тесты на ваших вопросах, 1 день
+4. Запуск и обучение команды, 1 день
+
+Тарифы:
+Базовый, 40 000 руб: чат-бот с автоответами
+Стандарт, 80 000 руб: плюс сценарии продаж и связка с CRM
+Премиум, 150 000 руб: нейросотрудник на вашей базе знаний с интеграциями
+
+Напишите в чат, разберу вашу задачу и предложу схему бота.]]></Description>
+    <Price>40000</Price>
+    <Address>Москва</Address>
+    <Prepayment>Нет</Prepayment>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Place>Удалённо</Place>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ContactPhone>79175529308</ContactPhone>
+    <Images>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/card_07_ai_bot.png"/>
+    </Images>
+  </Ad>
 </Ads>
