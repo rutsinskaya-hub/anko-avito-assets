@@ -92,7 +92,7 @@
     <Prepayment>Нет</Prepayment>
     <Consultations>Есть</Consultations>
     <WorkWithContract>Да</WorkWithContract>
-    <Place>Дистанционно</Place>
+    <Place>Удалённо</Place>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ContactPhone>79175529308</ContactPhone>
     <Images>
@@ -141,7 +141,7 @@
     <Prepayment>Нет</Prepayment>
     <Consultations>Есть</Consultations>
     <WorkWithContract>Да</WorkWithContract>
-    <Place>На выезде</Place>
+    <Place>Удалённо</Place>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ContactPhone>79175529308</ContactPhone>
     <Images>
