@@ -41,6 +41,9 @@
     <Price>40000</Price>
     <Address>Москва</Address>
     <Prepayment>Нет</Prepayment>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Place>Дистанционно</Place>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ContactPhone>79175529308</ContactPhone>
     <Images>
@@ -87,6 +90,9 @@
     <Price>25000</Price>
     <Address>Москва</Address>
     <Prepayment>Нет</Prepayment>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Place>Дистанционно</Place>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ContactPhone>79175529308</ContactPhone>
     <Images>
@@ -133,6 +139,9 @@
     <Price>15000</Price>
     <Address>Москва</Address>
     <Prepayment>Нет</Prepayment>
+    <Consultations>Есть</Consultations>
+    <WorkWithContract>Да</WorkWithContract>
+    <Place>Дистанционно</Place>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ContactPhone>79175529308</ContactPhone>
     <Images>
