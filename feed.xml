@@ -151,9 +151,9 @@
   <Ad>
     <Id>anko-ai-video</Id>
     <Category>Предложение услуг</Category>
-    <ServiceType>Деловые услуги</ServiceType>
-    <ServiceSubtype>IT, дизайн, тексты</ServiceSubtype>
-    <ServiceSubspecies>ИИ-решения, нейросети</ServiceSubspecies>
+    <ServiceType>Фото- и видеосъёмка</ServiceType>
+    <ServiceSubtype>Видеосъёмка</ServiceSubtype>
+    <Specialty>Видео</Specialty>
     <Title>AI-видеоролик для бизнеса за 5 дней | видеовизитка</Title>
     <Description><![CDATA[Видеоролик на нейросетях за 5 дней, от 30 000 руб. Рекламный ролик или видеовизитка бренда без съемочной группы и бюджета на продакшн.
 
@@ -187,10 +187,6 @@
 Напишите в чат, пришлю примеры роликов и подскажу формат под вашу задачу.]]></Description>
     <Price>30000</Price>
     <Address>Москва</Address>
-    <Prepayment>Нет</Prepayment>
-    <Consultations>Есть</Consultations>
-    <WorkWithContract>Да</WorkWithContract>
-    <Place>Удалённо</Place>
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ContactPhone>79175529308</ContactPhone>
     <Images>
