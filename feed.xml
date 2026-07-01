@@ -445,6 +445,13 @@
     <ContactPhone>79164020201</ContactPhone>
     <Images>
       <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/card_02_saity.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/saity/01_browser_anko.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/saity/02_browser_museum.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/saity/03_browser_ohudet.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/saity/04_browser_rutsin.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/saity/05_tablet_anko.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/saity/06_phone_duo1.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/saity/07_phone_duo2.png"/>
     </Images>
   </Ad>
 </Ads>
