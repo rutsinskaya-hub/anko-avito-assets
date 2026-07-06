@@ -345,14 +345,15 @@
     <ContactPhone>79169570457</ContactPhone>
     <Images>
       <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/card_03_prezentacii.png"/>
-      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/prez/01_prez.png"/>
-      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/prez/02_prez.png"/>
-      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/prez/03_prez.png"/>
-      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/prez/04_prez.png"/>
-      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/prez/05_prez.png"/>
-      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/prez/06_prez.png"/>
-      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/prez/07_prez.png"/>
-      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/prez/08_prez.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/prez/01_prez.jpg"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/prez/02_prez.jpg"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/prez/03_prez.jpg"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/prez/04_prez.jpg"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/prez/05_prez.jpg"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/prez/06_prez.jpg"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/prez/07_prez.jpg"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/prez/08_prez.jpg"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/prez/09_prez.png"/>
     </Images>
   </Ad>
   <Ad>
@@ -409,6 +410,15 @@
     <ContactPhone>79169570457</ContactPhone>
     <Images>
       <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/card_04_brending.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/brending/02_kontekst_brandboard.jpg"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/brending/03_kontekst_logo_wall.jpg"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/brending/04_kontekst_letterpress.jpg"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/brending/05_kontekst_monogram.jpg"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/brending/06_kontekst_poster.jpg"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/brending/09_kontekst_quote.jpg"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/brending/10_kontekst_hero.jpg"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/brending/07_ohudet_logo.jpg"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/brending/08_ohudet_maskot.jpg"/>
     </Images>
   </Ad>
   <Ad>
