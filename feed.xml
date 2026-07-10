@@ -111,14 +111,15 @@
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ContactPhone>79169570457</ContactPhone>
     <Images>
-      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/card_06_kontent_smm.png"/>
-      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/content/01_content.jpg"/>
-      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/content/02_content.jpg"/>
-      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/content/03_content.jpg"/>
-      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/content/04_content.jpg"/>
-      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/content/05_content.jpg"/>
-      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/content/06_content.jpg"/>
-      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/content/07_content.jpg"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/content/01_content.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/content/02_content.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/content/03_content.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/content/04_content_v2.jpg"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/content/05_content.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/content/06_content.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/content/07_content.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/content/08_content.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/content/09_content.png"/>
     </Images>
   </Ad>
   <Ad>
@@ -175,7 +176,15 @@
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ContactPhone>79169570457</ContactPhone>
     <Images>
-      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/card_08_teksty.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/teksty/01_teksty.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/teksty/02_teksty.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/teksty/03_teksty.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/teksty/04_teksty.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/teksty/05_teksty.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/teksty/06_teksty.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/teksty/07_teksty.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/teksty/08_teksty.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/teksty/09_teksty.png"/>
     </Images>
   </Ad>
   <Ad>
@@ -227,13 +236,15 @@
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ContactPhone>79164020201</ContactPhone>
     <Images>
-      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/card_05_ai_video.png"/>
-      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/aivideo/01_ai_video.png"/>
-      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/aivideo/02_ai_video.png"/>
-      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/aivideo/03_ai_video.png"/>
-      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/aivideo/04_ai_video.png"/>
-      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/aivideo/05_ai_video.png"/>
-      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/aivideo/06_ai_video.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/aivideo/01_ai_video_v2.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/aivideo/02_ai_video_v2.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/aivideo/03_ai_video_v2.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/aivideo/04_ai_video_v2.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/aivideo/05_ai_video_v2.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/aivideo/06_ai_video_v2.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/aivideo/07_ai_video_v2.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/aivideo/08_ai_video_v2.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/aivideo/09_ai_video_v2.png"/>
     </Images>
   </Ad>
   <Ad>
@@ -289,7 +300,15 @@
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ContactPhone>79164020201</ContactPhone>
     <Images>
-      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/card_07_ai_bot.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/aibot/01_ai_bot.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/aibot/02_ai_bot.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/aibot/03_ai_bot.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/aibot/04_ai_bot.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/aibot/05_ai_bot.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/aibot/06_ai_bot.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/aibot/07_ai_bot.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/aibot/08_ai_bot.png"/>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/aibot/09_ai_bot.png"/>
     </Images>
   </Ad>
   <Ad>
