@@ -111,6 +111,7 @@
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ContactPhone>79169570457</ContactPhone>
     <Images>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/card_06_kontent_smm.png"/>
       <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/content/01_content.png"/>
       <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/content/02_content.png"/>
       <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/content/03_content.png"/>
@@ -176,6 +177,7 @@
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ContactPhone>79169570457</ContactPhone>
     <Images>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/card_08_teksty.png"/>
       <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/teksty/01_teksty.png"/>
       <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/teksty/02_teksty.png"/>
       <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/teksty/03_teksty.png"/>
@@ -236,6 +238,7 @@
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ContactPhone>79164020201</ContactPhone>
     <Images>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/card_05_ai_video.png"/>
       <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/aivideo/01_ai_video_v2.png"/>
       <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/aivideo/02_ai_video_v2.png"/>
       <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/aivideo/03_ai_video_v2.png"/>
@@ -301,6 +304,7 @@
     <ContactMethod>По телефону и в сообщениях</ContactMethod>
     <ContactPhone>79164020201</ContactPhone>
     <Images>
+      <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/card_07_ai_bot.png"/>
       <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/aibot/01_ai_bot.png"/>
       <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/aibot/02_ai_bot.png"/>
       <Image url="https://raw.githubusercontent.com/rutsinskaya-hub/anko-avito-assets/main/aibot/03_ai_bot.png"/>
